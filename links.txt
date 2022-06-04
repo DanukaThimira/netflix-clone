@@ -1,0 +1,4 @@
+5b2542567abb27ae82fe2953377edb24
+
+https://api.themoviedb.org/3/movie/550?api_key=5b2542567abb27ae82fe2953377edb24
+
